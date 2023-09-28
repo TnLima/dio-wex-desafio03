@@ -1,5 +1,6 @@
-# DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
+
+# Bootcamp Wex | Desenvolvimento .NET e QA
+Criando um Sistema e Abstraindo um Celular com POO em C#
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
@@ -18,5 +19,7 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+## Contato
+
+[Linkedin](https://www.linkedin.com/in/thiago-de-lima-980977134/)
+[YouTube](https://www.youtube.com/@thi-lima)
